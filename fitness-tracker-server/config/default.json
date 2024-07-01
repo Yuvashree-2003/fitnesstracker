@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://0.0.0.0:27017/fitnesstrackerapp",
+    "jwtSecret": "4cd0af182c74c6a2e393f44f1d7e3240b038543812c5f1006d30bbc93a22e102"
+}
